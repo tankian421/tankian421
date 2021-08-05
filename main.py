@@ -2,7 +2,7 @@ import requests
 import time
 import json
 import os
-
+”start”: “node index”
 
 class TelegramBot:
     def __init__(self):
